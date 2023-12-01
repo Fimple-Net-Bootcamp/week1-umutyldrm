@@ -1,0 +1,15 @@
+C:\Users\umuty\Dotnet\CsharpProjects\LibraryProject\bin\Debug\net6.0\LibraryProject.exe
+C:\Users\umuty\Dotnet\CsharpProjects\LibraryProject\bin\Debug\net6.0\LibraryProject.deps.json
+C:\Users\umuty\Dotnet\CsharpProjects\LibraryProject\bin\Debug\net6.0\LibraryProject.runtimeconfig.json
+C:\Users\umuty\Dotnet\CsharpProjects\LibraryProject\bin\Debug\net6.0\LibraryProject.dll
+C:\Users\umuty\Dotnet\CsharpProjects\LibraryProject\bin\Debug\net6.0\LibraryProject.pdb
+C:\Users\umuty\Dotnet\CsharpProjects\LibraryProject\obj\Debug\net6.0\LibraryProject.csproj.AssemblyReference.cache
+C:\Users\umuty\Dotnet\CsharpProjects\LibraryProject\obj\Debug\net6.0\LibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umuty\Dotnet\CsharpProjects\LibraryProject\obj\Debug\net6.0\LibraryProject.AssemblyInfoInputs.cache
+C:\Users\umuty\Dotnet\CsharpProjects\LibraryProject\obj\Debug\net6.0\LibraryProject.AssemblyInfo.cs
+C:\Users\umuty\Dotnet\CsharpProjects\LibraryProject\obj\Debug\net6.0\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\umuty\Dotnet\CsharpProjects\LibraryProject\obj\Debug\net6.0\LibraryProject.dll
+C:\Users\umuty\Dotnet\CsharpProjects\LibraryProject\obj\Debug\net6.0\refint\LibraryProject.dll
+C:\Users\umuty\Dotnet\CsharpProjects\LibraryProject\obj\Debug\net6.0\LibraryProject.pdb
+C:\Users\umuty\Dotnet\CsharpProjects\LibraryProject\obj\Debug\net6.0\LibraryProject.genruntimeconfig.cache
+C:\Users\umuty\Dotnet\CsharpProjects\LibraryProject\obj\Debug\net6.0\ref\LibraryProject.dll
